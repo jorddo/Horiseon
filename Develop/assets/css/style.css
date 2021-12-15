@@ -86,20 +86,10 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lbc {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+  }
 
 .benefit-lead h3 {
     margin-bottom: 10px;
